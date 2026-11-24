@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Tatooine",
+        "population": "200000",
+        "terrain": "desert",
+        "climate": "arid",
+        "orbital_period": "304",
+        "rotation_period": "23",
+        "diameter": "10465",
+        "gravity": "1 standard",
+        "surface_water": "1"
+    },
+    {
+        "name": "Alderaan",
+        "population": "2000000000",
+        "terrain": "grasslands, mountains",
+        "climate": "temperate",
+        "orbital_period": "364",
+        "rotation_period": "24",
+        "diameter": "12500",
+        "gravity": "1 standard",
+        "surface_water": "40"
+    },
+    {
+        "name": "Yavin IV",
+        "population": "1000",
+        "terrain": "jungle, rainforests",
+        "climate": "temperate, tropical",
+        "orbital_period": "4818",
+        "rotation_period": "24",
+        "diameter": "10200",
+        "gravity": "1 standard",
+        "surface_water": "8"
+    },
+    {
+        "name": "Hoth",
+        "population": "unknown",
+        "terrain": "tundra, ice caves, mountain ranges",
+        "climate": "frozen",
+        "orbital_period": "549",
+        "rotation_period": "23",
+        "diameter": "7200",
+        "gravity": "1.1 standard",
+        "surface_water": "100"
+    },
+    {
+        "name": "Dagobah",
+        "population": "unknown",
+        "terrain": "swamp, jungles",
+        "climate": "murky",
+        "orbital_period": "341",
+        "rotation_period": "23",
+        "diameter": "8900",
+        "gravity": "N/A",
+        "surface_water": "8"
+    },
+    {
+        "name": "Bespin",
+        "population": "6000000",
+        "terrain": "gas giant",
+        "climate": "temperate",
+        "orbital_period": "5110",
+        "rotation_period": "12",
+        "diameter": "118000",
+        "gravity": "1.5 (surface), 1 standard (Cloud City)",
+        "surface_water": "0"
+    },
+    {
+        "name": "Endor",
+        "population": "30000000",
+        "terrain": "forests, mountains, lakes",
+        "climate": "temperate",
+        "orbital_period": "402",
+        "rotation_period": "18",
+        "diameter": "4900",
+        "gravity": "0.85 standard",
+        "surface_water": "8"
+    },
+    {
+        "name": "Naboo",
+        "population": "4500000000",
+        "terrain": "grassy hills, swamps, forests, mountains",
+        "climate": "temperate",
+        "orbital_period": "312",
+        "rotation_period": "26",
+        "diameter": "12120",
+        "gravity": "1 standard",
+        "surface_water": "12"
+    },
+    {
+        "name": "Coruscant",
+        "population": "1000000000000",
+        "terrain": "cityscape, mountains",
+        "climate": "temperate",
+        "orbital_period": "368",
+        "rotation_period": "24",
+        "diameter": "12240",
+        "gravity": "1 standard",
+        "surface_water": "unknown"
+    },
+    {
+        "name": "Kamino",
+        "population": "1000000000",
+        "terrain": "ocean",
+        "climate": "temperate",
+        "orbital_period": "463",
+        "rotation_period": "27",
+        "diameter": "19720",
+        "gravity": "1 standard",
+        "surface_water": "100"
+    }
+]

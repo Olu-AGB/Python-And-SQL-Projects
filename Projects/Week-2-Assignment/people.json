@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "gender": "male",
+        "birth_year": "19BBY",
+        "height": "172",
+        "mass": "77",
+        "skin_color": "fair",
+        "eye_color": "blue"
+    },
+    {
+        "name": "C-3PO",
+        "gender": "n/a",
+        "birth_year": "112BBY",
+        "height": "167",
+        "mass": "75",
+        "skin_color": "gold",
+        "eye_color": "yellow"
+    },
+    {
+        "name": "R2-D2",
+        "gender": "n/a",
+        "birth_year": "33BBY",
+        "height": "96",
+        "mass": "32",
+        "skin_color": "white, blue",
+        "eye_color": "red"
+    },
+    {
+        "name": "Darth Vader",
+        "gender": "male",
+        "birth_year": "41.9BBY",
+        "height": "202",
+        "mass": "136",
+        "skin_color": "white",
+        "eye_color": "yellow"
+    },
+    {
+        "name": "Leia Organa",
+        "gender": "female",
+        "birth_year": "19BBY",
+        "height": "150",
+        "mass": "49",
+        "skin_color": "light",
+        "eye_color": "brown"
+    },
+    {
+        "name": "Owen Lars",
+        "gender": "male",
+        "birth_year": "52BBY",
+        "height": "178",
+        "mass": "120",
+        "skin_color": "light",
+        "eye_color": "blue"
+    },
+    {
+        "name": "Beru Whitesun lars",
+        "gender": "female",
+        "birth_year": "47BBY",
+        "height": "165",
+        "mass": "75",
+        "skin_color": "light",
+        "eye_color": "blue"
+    },
+    {
+        "name": "R5-D4",
+        "gender": "n/a",
+        "birth_year": "unknown",
+        "height": "97",
+        "mass": "32",
+        "skin_color": "white, red",
+        "eye_color": "red"
+    },
+    {
+        "name": "Biggs Darklighter",
+        "gender": "male",
+        "birth_year": "24BBY",
+        "height": "183",
+        "mass": "84",
+        "skin_color": "light",
+        "eye_color": "brown"
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "gender": "male",
+        "birth_year": "57BBY",
+        "height": "182",
+        "mass": "77",
+        "skin_color": "fair",
+        "eye_color": "blue-gray"
+    }
+]
