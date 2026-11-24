@@ -43,9 +43,4 @@ and end the program with a goodbye message.
 
 ## Extra
 
-Below is a snapshot of how I have been using git.
-![img.png](img.png)
-
-
-
-I have also created a requirements file, **requirements.txt** that shows all the packages I have used and their versions.
+I have created a requirements file, **requirements.txt** that shows all the packages I have used and their versions.
