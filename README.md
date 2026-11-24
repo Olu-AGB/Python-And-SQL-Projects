@@ -1,0 +1,1 @@
+A GitHub repository containing some projects I have worked on so far.
